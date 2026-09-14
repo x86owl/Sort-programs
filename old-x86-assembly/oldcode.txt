@@ -1,0 +1,32 @@
+Date: 09/02/2026
+	first.s 	will perform the subtraction an addition
+
+Date: 10/02/206
+	second.s	will perform the multiplication (worked)
+	third.s 	will perform the division (worked)
+
+	exit.s		simple exit program exit with 6
+
+Date: 22/02/2026
+	four.s
+	five.s		text manipulation
+	six.s		
+	seven.s		unconditional jmp
+	eight.s		conditional jmp
+	
+Date: 23/02/2026	
+	nine.s 		stack operation or string manipulation
+	
+Date: 24/02/2026	
+	ten.s		push operation 
+	
+Date: 24/02/2026	
+	eleven.s	
+
+Date: 27/02/2026
+	nine.s
+
+Date: 04/03/2026
+	ten.s		
+	ex11.s		
+	ex12.s		program(13)
